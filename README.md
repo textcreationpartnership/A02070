@@ -33,9 +33,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A pleasant conceyted comedie of George a Greene, the pinner of VVakefield As it was sundry times act
+
 #####Body#####
-A pleasant conceyted comedie of George a Greene, the pinner of VVakefield As it was sundry times act
+
+1. A pleasant conceyted Comedie of George a Greene, the Pinner of Wakefield.
+
 **Types of content**
 
   * There are 1042 **verse** lines!
